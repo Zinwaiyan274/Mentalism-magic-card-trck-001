@@ -1,5 +1,5 @@
 import random
-
+        ''' This computer_picky is intended to do  for the next part'''
 def computer_picky():
     raw_card = ["2", "3", "4", "5", "6", "7", "8", "9", "Jack", "King", "Queen", "Ace"]
     card_suits = [" Hearts", "Diamonds", "Spades", "Clubs"]
@@ -49,7 +49,7 @@ text = str(text).lower()
 # print(text)
 
 if text in keyword:
-    print(f"volia! keyword is >>>{keyword}<<<< and you said >>>>{text}<<<<<")
+    print(f"voilà! keyword is >>>{keyword}<<<< and you said >>>>{text}<<<<<")
 else:
     print(f"Damm you said>>{text}<<")
 
