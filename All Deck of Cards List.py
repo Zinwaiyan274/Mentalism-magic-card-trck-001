@@ -1,3 +1,4 @@
+import random
 
 def computer_picky():
     raw_card = ["2", "3", "4", "5", "6", "7", "8", "9", "Jack", "King", "Queen", "Ace"]
