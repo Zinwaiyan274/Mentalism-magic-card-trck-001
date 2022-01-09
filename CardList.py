@@ -36,3 +36,21 @@ if __name__ == '__main__':
                 'queen of diamonds', 'queen of clubs', 'king of spades', 'king of hearts', 'king of diamonds',
                 'king of clubs']
     keyword = 'ace of spade' or 'ace of heart' or 'ace of diamond' or 'ace of club' or 'two of spades' or 'two of hearts' or 'two of diamonds' or 'two of clubs' or 'three of spades' or 'three of hearts' or 'three of diamonds' or 'three of clubs' or 'four of spades' or 'four of hearts' or 'four of diamonds' or 'four of clubs' or 'five of spades' or 'five of hearts' or 'five of diamonds' or 'five of clubs' or 'six of spades' or 'six of hearts' or 'six of diamonds' or 'six of clubs' or 'seven of spades' or 'seven of hearts' or 'seven of diamonds' or 'seven of clubs' or 'eight of spades' or 'eight of hearts' or 'eight of diamonds' or 'eight of clubs' or 'nine of spades' or 'nine of hearts' or 'nine of diamonds' or 'nine of clubs' or 'ten of spades' or 'ten of hearts' or 'ten of diamonds' or 'ten of clubs' or 'jack of spades' or 'jack of hearts' or 'jack of diamonds' or 'jack of clubs' or 'queen of spades' or 'queen of hearts' or 'queen of diamonds' or 'queen of clubs' or 'king of spades' or 'king of hearts' or 'king of diamonds' or 'king of clubs' or '2 of spades' or '2 of hearts' or '2 of diamonds' or '2 of clubs' or '3 of spades' or '3 of hearts' or '3 of diamonds' or '3 of clubs' or '4 of spades' or '4 of hearts' or '4 of diamonds' or '4 of clubs' or '5 of spades' or '5 of hearts' or '5 of diamonds' or '5 of clubs' or '6 of spades' or '6 of hearts' or '6 of diamonds' or '6 of clubs' or '7 of spades' or '7 of hearts' or '7 of diamonds' or '7 of clubs' or '8 of spades' or '8 of hearts' or '8 of diamonds' or '8 of clubs' or '9 of spades' or '9 of hearts' or '9 of diamonds' or '9 of clubs' or '10 of spades' or '10 of hearts' or '10 of diamonds' or '10 of clubs'
+
+    
+    
+# def card():
+#     i =0
+#     while i<52:
+#         text = card_text[i]
+#         i +=1
+#         print(text)
+#     i =0
+#     while i<52:
+#         num = card_num[i]
+#         i +=1
+#         print(num)
+
+
+# keyword = card()
+
