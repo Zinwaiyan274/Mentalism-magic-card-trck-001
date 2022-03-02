@@ -38,17 +38,6 @@ keywords= 'ace of spade' + 'ace of heart' + 'ace of diamond' + 'ace of club' + '
 
 
 
-# def card():
-#     i =0
-#     while i<52:
-#         text = card_text[i]
-#         i +=1
-#         print(text)
-#     i =0
-#     while i<52:
-#         num = card_num[i]
-#         i +=1
-#         print(num)
 
 
 keyword = card_num + card_text
