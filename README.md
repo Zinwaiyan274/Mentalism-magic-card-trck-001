@@ -3,7 +3,7 @@ Combining magic, mentalism trick with code. This is my first NLP project.
 
 
 
-# Magic_tick_structure : 
+# Magic_trick_structure : 
 
 A magician has a board covered with cloth. Firstly, without any force, a spectator freely chooses a playing card from a deck of cards. Then, surprisingly the prediction board from earlier shows the card that the spectator had been chosen 
 
