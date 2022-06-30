@@ -1,5 +1,5 @@
 # Mentalism-magic-card-trck-001
-Combining magic, mentalism trick with code. This is my first NLP project. 
+Combining magic, mentalism trick with AI. This is my first NLP project. 
 
 
 
